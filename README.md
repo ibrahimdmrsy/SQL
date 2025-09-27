@@ -1,7 +1,7 @@
 The repository includes a wide of range hands-on exercises, SQL queries and notes while I have been learning and practicing through using PostgreSQL, BigQuery and Looker Studio
 The practical exercises aimed at improving my ability to write SQL queries for data analysis. It includes BigQuery scripts as well.
 
-#**CONTENTS in PostgreSQL**
+# **CONTENTS in PostgreSQL**
 
 ● PostgreSQL Basics:
   ○  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
@@ -18,7 +18,7 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 - Basic dashboard designs
 - Visualization of SQL and BigQuery query results
 
-#**Folder and File Contents**
+# **Folder and File Contents**
  Each file starts with a course number (as a prefix) 
 
 - CN1_Introduction to SQL
