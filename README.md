@@ -5,7 +5,7 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 
 ● PostgreSQL Basics:
 
-  ○ (U+25CB)  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
+   ○  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
   -  Creating a database and re-alteriation
   -  Forming of Union all, Joins and subqueries etc.
   -  Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
