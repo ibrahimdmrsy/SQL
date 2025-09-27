@@ -19,6 +19,7 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 - Visualization of SQL and BigQuery query results
 
 **Folder and File Contents**
+<u>Folder and File Contents</u>
 Each file starts with a course number (as a prefix) 
 
 CN1_Introduction to SQL
@@ -30,3 +31,9 @@ CN6_SQL_String_Functions.sql: String functions
 CN7_SQL_Window_functions.sql: Window functions
 CN8_SQL_BigQuery.sql: BigQuery Examples 
 CS9_SQL_BigQuery.sql: Google Analytics-4 BigQuery examples
+
+
+Author 
+Ibrahim Demirsoy
+
+
