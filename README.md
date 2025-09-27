@@ -7,11 +7,11 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 
    (U+2013)  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
    (U+2013)  Creating a database and re-alteriation
-   ○  Forming of Union all, Joins and subqueries etc.
-   ○  Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
+   &ndash  Forming of Union all, Joins and subqueries etc.
+   &ndash  Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
 
 ● BigQuery fundamental Basics:
-GitHub—Markdown  Studies on public datasets 
+-  Studies on public datasets 
 -  Query limitation
 -  Aggregation functions and data conversions
 
