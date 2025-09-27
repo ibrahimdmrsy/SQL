@@ -3,19 +3,18 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 
 ## **CONTENTS in PostgreSQL**
 
-● PostgreSQL Basics:
+ PostgreSQL Basics:
+- Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
+- Creating a database and re-alteriation
+- Forming of Union all, Joins and subqueries etc.
+- Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
 
-(hyphen)  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
-(hyphen)  Creating a database and re-alteriation
-(hyphen)  Forming of Union all, Joins and subqueries etc.
-     Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
-
-● BigQuery fundamental Basics:
+ BigQuery fundamental Basics:
 -  Studies on public datasets 
 -  Query limitation
 -  Aggregation functions and data conversions
 
-● Looker Studio :
+Looker Studio :
 - Basic dashboard designs
 - Visualization of SQL and BigQuery query results
 
