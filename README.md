@@ -18,8 +18,8 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 - Basic dashboard designs
 - Visualization of SQL and BigQuery query results
 
-**Folder and File Contents**
-Each file starts with a course number (as a prefix) 
+#**Folder and File Contents**
+ Each file starts with a course number (as a prefix) 
 
 - CN1_Introduction to SQL
 - CN2_Basic_SQL.sql & CS2_Bonus_Basic_SQL.sql: Basic SQL examples
