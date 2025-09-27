@@ -1,6 +1,8 @@
-```sql
-SELECT name, age
-FROM users
-WHERE age > 18;
-```
-
+SELECT 
+  ad_date, 
+  spend, 
+  clicks, 
+  spend/clicks as Spend_Clicks_oranı   
+FROM public.facebook_ads_basic_daily
+where clicks >0
+order by ad_date desc
