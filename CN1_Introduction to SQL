@@ -1,3 +1,5 @@
+### SQL Örneği
+
 ```sql
 -- Tüm kullanıcıları seç
 SELECT * 
