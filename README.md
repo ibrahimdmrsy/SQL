@@ -5,9 +5,9 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 
 ● PostgreSQL Basics:
 
-   (hyphen)  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
-     Creating a database and re-alteriation
-     Forming of Union all, Joins and subqueries etc.
+(hyphen)  Basic SQLs queries (SELECT, WHERE, GROUP BY, etc.)
+(hyphen)  Creating a database and re-alteriation
+(hyphen)  Forming of Union all, Joins and subqueries etc.
      Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
 
 ● BigQuery fundamental Basics:
