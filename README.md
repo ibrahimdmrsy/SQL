@@ -4,7 +4,7 @@ The practical exercises aimed at improving my ability to write SQL queries for d
 Topics Covered
 PostgreSQL fundamentals
 
-Database creation and schema design
+#000000 Database creation and schema design
 Basic SQL queries (SELECT, WHERE, GROUP BY, etc.)
 Joins and subqueries
 Advanced SQL (Window functions, CTEs, etc.)
