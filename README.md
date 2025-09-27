@@ -11,7 +11,7 @@ The practical exercises aimed at improving my ability to write SQL queries for d
    ○  Studies of Advanced SQL queries (Windows functions, CTEs, etc.)
 
 ● BigQuery fundamental Basics:
--  Studies on public datasets 
+GitHub—Markdown  Studies on public datasets 
 -  Query limitation
 -  Aggregation functions and data conversions
 
