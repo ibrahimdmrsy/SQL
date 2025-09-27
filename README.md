@@ -1,10 +1,10 @@
 The repository includes a wide of range hands-on exercises, SQL queries and notes while I have been learning and practicing through using PostgreSQL, BigQuery and Looker Studio
 The practical exercises aimed at improving my ability to write SQL queries for data analysis. It includes BigQuery scripts as well.
 
-Topics Covered
+**Topics Covered**
 PostgreSQL fundamentals
 
-#000000 Database creation and schema design
+ Database creation and schema design
 Basic SQL queries (SELECT, WHERE, GROUP BY, etc.)
 Joins and subqueries
 Advanced SQL (Window functions, CTEs, etc.)
