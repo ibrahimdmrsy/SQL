@@ -1,4 +1,4 @@
-The repository includes a wide of range hands-on exercises, SQL queries and notes while I have been learning and practicing through using PostgreSQL, BigQuery and Looker Studio
+The repository includes many hands-on exercises, SQL queries and notes while I have been learning and practicing through using PostgreSQL, BigQuery and Looker Studio
 The practical exercises aimed at improving my ability to write SQL queries for data analysis and  BigQuery scripts.
 
 ## **CONTENTS in PostgreSQL**
